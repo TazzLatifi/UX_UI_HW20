@@ -1,0 +1,38 @@
+html {
+    scroll-behavior: smooth;
+  }
+  inline-block{
+      display: inline-block;
+      vertical-align: top;
+  }
+  .navigation{
+    display: flex;
+    background-color: #B9AE9F;
+  }
+  .logo{
+      width: 23%;
+      padding: 1%;
+      text-align: center;
+  
+  }
+  nav{
+      width: 73%;
+      padding: 1%;
+  
+  }
+  a{
+      width: 25%;
+      margin-left: auto;
+      padding: 2%;
+  }
+  .footer{
+    background-color: #B9AE9F;
+    padding: center;
+}
+.footer-ul{
+    display: inline-block;
+    vertical-align: middle;
+}
+.footer-li{
+    padding: center;
+}
