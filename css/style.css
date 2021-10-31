@@ -25,14 +25,26 @@ html {
       margin-left: auto;
       padding: 2%;
   }
-  .footer{
-    background-color: #B9AE9F;
-    padding: center;
+card-deck{
+    display: flex;
+    padding: 1%;
 }
-.footer-ul{
-    display: inline-block;
-    vertical-align: middle;
+
+.card mb-3{
+    align-content: center;
+    padding:15%
 }
-.footer-li{
-    padding: center;
+.card-img-top{
+   object-fit: contain;
 }
+
+.footer{
+        background-color: #B9AE9F;
+        padding: 2%;
+        color:azure;
+        }
+li{
+    display:inline;
+    padding: 8%;    
+}
+
